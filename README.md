@@ -16,7 +16,7 @@
 
 ## **TECHNICAL SKILLS**
 
-### Programming Languages
+#### Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -44,7 +44,7 @@
 
 ---
 
-**GitHub Stats**
+## **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shlokparsekar27&show_icons=true&theme=tokyonight" alt="Shlok's GitHub Stats" />
@@ -52,7 +52,7 @@
 
 ---
 
-**Let's Connect!**
+## **Let's Connect!**
 
 - LinkedIn: https://www.linkedin.com/in/shlok-parsekar/
 - Email: [shlokparsekar27@gmail.com](mailto:shlokparsekar27@gmail.com)
