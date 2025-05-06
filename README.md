@@ -54,7 +54,7 @@
 
 ## **Let's Connect!**
 
-- LinkedIn: https://www.linkedin.com/in/shlok-parsekar/
+- LinkedIn: [linkedin.com/in/shlokparsekar](https://www.linkedin.com/in/shlok-parsekar/)
 - Email: [shlokparsekar27@gmail.com](mailto:shlokparsekar27@gmail.com)
 
 ---
