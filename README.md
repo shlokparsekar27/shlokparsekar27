@@ -1,4 +1,4 @@
-<img src="./Images/github-header-image.png" alt="Header" style="width: 100%;">
+<img src="./Images/github-header-image-shlok.png" alt="Header" style="width: 100%;">
 <h1 align="center">Hi there, I'm Shlok Parsekar</h1>
 <h3 align="center">Tech Explorer | Passionate Coder | Creative Thinker</h3>
 
