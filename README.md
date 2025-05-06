@@ -5,7 +5,8 @@
 
 **About Me**
 
-- I'm currently pursuing **B.E. in Information Technology**  
+- I'm currently pursuing **B.E. in Information Technology**
+- College: **Padre Conceição College of Engineering**, 2022 - Present
 - Passionate about **AI & ML**, **Web & App Development**, **Software Development**, **DBMS Projects**, and **Problem Solving**
 - I love building practical and impactful tech solutions  
 - Currently exploring full-stack development, cloud tools, and machine learning
@@ -28,19 +29,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shlokparsekar27&show_icons=true&theme=tokyonight" alt="Shlok's GitHub Stats" />
 </p>
-
----
-
-**Highlighted Projects**
-
-- [Movie Ticket Booking - DBMS Project](https://github.com/shlokparsekar27/MovieTicketBooking-DBMS)  
-  _A fully functional ticket booking system with a user-friendly interface and backend integration._
-
-- [Portfolio Website](https://github.com/shlokparsekar27/your-repo)  
-  _Your personal developer portfolio showcasing skills and projects._
-
-- [Mini Projects](https://github.com/shlokparsekar27?tab=repositories)  
-  _A collection of small yet fun and creative experiments in different technologies._
 
 ---
 
