@@ -6,7 +6,7 @@
 **About Me**
 
 - I'm currently pursuing **B.E. in Information Technology**  
-- Passionate about **Web Development**, **DBMS Projects**, and **Problem Solving**
+- Passionate about **AI & ML**, **Web & App Development**, **Software Development**, **DBMS Projects**, and **Problem Solving**
 - I love building practical and impactful tech solutions  
 - Currently exploring full-stack development, cloud tools, and machine learning
 - Always open to collaborations and learning opportunities
@@ -15,11 +15,11 @@
 
 **Tech Stack**
 
-- **Languages:** C++, Java, Python, JavaScript, PHP  
-- **Web Development:** HTML, CSS, Bootstrap, React.js, Node.js  
-- **Database:** MySQL, MongoDB  
-- **Tools & Platforms:** Git, GitHub, VS Code, Dev C++, XAMPP  
-- **Others:** REST APIs, Firebase, DBMS concepts, Linux basics  
+- Programming Languages: C, C++, Java, Python, JavaScript, PHP
+- Web Technologies: HTML, CSS
+- Version Control & Collaboration: Git, GitHub
+- Databases: MySQL, Oracle
+- Tools & IDEs: VS Code, Dev C++, XAMPP, MySQL Workbench 
 
 ---
 
@@ -27,8 +27,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shlokparsekar27&show_icons=true&theme=tokyonight" alt="Shlok's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokparsekar27&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -48,7 +46,7 @@
 
 **Let's Connect!**
 
-- [LinkedIn](https://www.linkedin.com/in/shlokparsekar)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shlokparsekar)  
 - Email: [shlokparsekar27@gmail.com](mailto:shlokparsekar27@gmail.com)
 
 ---
