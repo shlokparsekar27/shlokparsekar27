@@ -1,3 +1,4 @@
+![Header](./Images/github-header-image.png)
 <h1 align="center">Hi there, I'm Shlok Parsekar</h1>
 <h3 align="center">Tech Explorer | Passionate Coder | Creative Thinker</h3>
 
