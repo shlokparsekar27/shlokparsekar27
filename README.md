@@ -14,30 +14,57 @@
 
 ## **TECHNICAL SKILLS**
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/codeblocks.png" width="40"/></td> <!-- Dev C++ alternative -->
-  </tr>
-</table>
+### 🧑‍💻 Programming Languages  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP"/>
+</p>
+<p align="left">
+  C &nbsp;&nbsp; C++ &nbsp;&nbsp; Java &nbsp;&nbsp; Python &nbsp;&nbsp; JavaScript &nbsp;&nbsp; PHP
+</p>
+
+### 🌐 Web Technologies  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+</p>
+<p align="left">
+  HTML5 &nbsp;&nbsp; CSS3
+</p>
+
+### 🔧 Version Control & Collaboration  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+</p>
+<p align="left">
+  Git &nbsp;&nbsp; GitHub
+</p>
+
+### 🛢 Databases  
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle"/>
+</p>
+<p align="left">
+  MySQL &nbsp;&nbsp; Oracle
+</p>
+
+### 🛠 Tools & IDEs  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/dev-c.png" alt="Dev C++"/>
+  <img src="https://img.icons8.com/color/48/xampp.png" alt="XAMPP"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL Workbench"/>
+</p>
+<p align="left">
+  VS Code &nbsp;&nbsp; Dev C++ &nbsp;&nbsp; XAMPP &nbsp;&nbsp; MySQL Workbench
+</p>
+
 
 ---
 
