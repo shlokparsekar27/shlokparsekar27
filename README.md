@@ -14,31 +14,42 @@
 
 ## **TECHNICAL SKILLS**
 
-### Programming Languages  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>  
+### 🧑‍💻 Programming Languages  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP" title="PHP"/>
+</p>
 
-### Web Technologies  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>  
+### 🌐 Web Technologies  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
+</p>
 
-### Version Control & Collaboration  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
+### 🔧 Version Control & Collaboration  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub"/>
+</p>
 
-### Databases  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>  
+### 🛢 Databases  
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" title="Oracle"/>
+</p>
 
-### Tools & IDEs  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40"/>  
-<img src="https://img.icons8.com/color/48/000000/codeblocks.png" width="40"/> <!-- Dev C++ alt -->
+### 🛠 Tools & IDEs  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/dev-c.png" alt="Dev C++" title="Dev C++"/>
+  <img src="https://img.icons8.com/color/48/xampp.png" alt="XAMPP" title="XAMPP"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL Workbench" title="MySQL Workbench"/>
+</p>
+
 
 ---
 
