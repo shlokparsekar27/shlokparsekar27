@@ -48,7 +48,7 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/visual-studio.png" alt="Visual Studio" title="Visual Studio"/>
+  <img src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="Visual Studio 2022" title="Visual Studio 2022"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL Workbench" title="MySQL Workbench"/>
 </p>
