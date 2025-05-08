@@ -1,5 +1,4 @@
 <img src="./Images/shlokparsekar3.png" alt="Header" style="width: 100%;">
-<h3 align="center">💻 Tech Explorer | 🎯 Passionate Coder | 🧠 Creative Thinker</h3>
 
 ---
 
@@ -45,15 +44,14 @@
   <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" title="Oracle"/>
 </p>
 
-</p>
-
 ### Tools & IDEs  
 <p align="left">
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
-    &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/visual-studio.png" alt="Visual Studio" title="Visual Studio"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL Workbench" title="MySQL Workbench"/>
 </p>
-
 
 ---
 
@@ -61,7 +59,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shlokparsekar27&show_icons=true&theme=tokyonight" alt="Shlok's GitHub Stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokparsekar27&layout=compact&theme=tokyonight" alt="Top Languages" /
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokparsekar27&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
