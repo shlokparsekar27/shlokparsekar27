@@ -46,9 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shlokparsekar27&show_icons=true&theme=tokyonight" alt="Shlok's GitHub Stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokparsekar27&layout=compact&theme=tokyonight" alt="Top Languages" /><br><br>
-![GitHub Streak](https://streak-stats.demolab.com?user=shlokparsekar27&theme=tokyonight&hide_border=false)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokparsekar27&layout=compact&theme=tokyonight" alt="Top Languages" /
 </p>
 
 ---
