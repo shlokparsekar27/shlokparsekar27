@@ -39,7 +39,10 @@
 ### Databases  
 <p align="left">
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" title="MySQL"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" title="Oracle"/>
+</p>
+
 </p>
 
 ### Tools & IDEs  
