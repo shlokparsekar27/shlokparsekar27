@@ -48,9 +48,6 @@
 ### Tools & IDEs  
 <p align="left">
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
-  <img src="https://img.icons8.com/ios-filled/50/dev-c.png" alt="Dev C++" title="Dev C++"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/xampp.png" alt="XAMPP" title="XAMPP"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL Workbench" title="MySQL Workbench"/>
 </p>
 
