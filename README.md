@@ -4,10 +4,10 @@
 
 ## 📌 **About Me**
 
-- #### 🎓 Pursuing **B.E. in Information Technology** at **Padre Conceição College of Engineering** (2022–Present)  
-- #### 💡 Passionate about **AI/ML**, **Web & App Dev**, **Software Development**, and **Problem Solving**  
-- #### 🔍 Currently exploring **Full-Stack Development**, **Cloud Computing**, and **Machine Learning**  
-- #### 🤝 Always open to **collaborations**, **team projects**, and **learning new technologies**
+- ### 🎓 Pursuing **B.E. in Information Technology** at **Padre Conceição College of Engineering** (2022–Present)  
+- ### 💡 Passionate about **AI/ML**, **Web & App Dev**, **Software Development**, and **Problem Solving**  
+- ### 🔍 Currently exploring **Full-Stack Development**, **Cloud Computing**, and **Machine Learning**  
+- ### 🤝 Always open to **collaborations**, **team projects**, and **learning new technologies**
 
 ---
 
@@ -66,8 +66,8 @@
 
 ## 🌐 **Let's Connect!**
 
-- #### LinkedIn: [linkedin.com/in/shlokparsekar](https://www.linkedin.com/in/shlok-parsekar/)
-- #### Email: [shlokparsekar27@gmail.com](mailto:shlokparsekar27@gmail.com)
+- ### LinkedIn: [linkedin.com/in/shlokparsekar](https://www.linkedin.com/in/shlok-parsekar/)
+- ### Email: [shlokparsekar27@gmail.com](mailto:shlokparsekar27@gmail.com)
 
 ---
 
