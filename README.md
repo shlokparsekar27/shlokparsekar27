@@ -16,11 +16,11 @@
 
 ### Programming Languages  
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP" title="PHP"/>
 </p>
 
