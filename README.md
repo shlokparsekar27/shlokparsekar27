@@ -1,17 +1,14 @@
 <img src="./Images/shlokparsekar3.png" alt="Header" style="width: 100%;">
-<h1 align="center">Hi there, I'm Shlok Parsekar</h1>
-<h3 align="center">Tech Explorer | Passionate Coder | Creative Thinker</h3>
+<h3 align="center">A Creative Thinker Exploring the World of Code & Technology</h3>
 
 ---
 
 ## **ABOUT ME**
 
-- I'm currently pursuing **B.E. in Information Technology**
-- College: **Padre Conceição College of Engineering**, 2022 - Present
-- Passionate about **AI & ML**, **Web & App Development**, **Software Development**, **DBMS Projects**, and **Problem Solving**
-- I love building practical and impactful tech solutions  
-- Currently exploring full-stack development, cloud tools, and machine learning
-- Always open to collaborations and learning opportunities
+- 🎓 Pursuing **B.E. in Information Technology** at **Padre Conceição College of Engineering** (2022–Present)  
+- 💡 Passionate about **AI/ML**, **Web & App Dev**, **Software Development**, and **Problem Solving**  
+- 🔍 Currently exploring **Full-Stack Development**, **Cloud Computing**, and **Machine Learning**  
+- 🤝 Always open to **collaborations**, **team projects**, and **learning new technologies**
 
 ---
 
@@ -49,6 +46,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shlokparsekar27&show_icons=true&theme=tokyonight" alt="Shlok's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokparsekar27&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shlokparsekar27&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
