@@ -25,31 +25,26 @@
 
 ### Web Technologies  
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
-    &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
 </p>
 
 ### Version Control & Collaboration  
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-    &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub"/>
 </p>
 
 ### Databases  
 <p align="left">
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" title="MySQL"/>
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" title="MySQL"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" title="Oracle"/>
 </p>
 
 ### Tools & IDEs  
 <p align="left">
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="Visual Studio 2022" title="Visual Studio 2022"/>
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="Visual Studio 2022" title="Visual Studio 2022"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL Workbench" title="MySQL Workbench"/>
 </p>
 
