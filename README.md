@@ -61,8 +61,8 @@
 
 ## 🌐 **Let's Connect!**
 
-- ### LinkedIn: [linkedin.com/in/shlokparsekar](https://www.linkedin.com/in/shlok-parsekar/)
 - ### Email: [shlokrparsekarwork@gmail.com](mailto:shlokrparsekarwork@gmail.com)
+- ### LinkedIn: [linkedin.com/in/shlokparsekar](https://www.linkedin.com/in/shlok-parsekar/)
 
 ---
 
