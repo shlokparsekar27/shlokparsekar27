@@ -66,4 +66,4 @@
 
 ---
 
-_"Code. Create. Collaborate. Contribute."_
+_"Code. Create. Captivate."_
