@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP" title="PHP"/>
 </p>
 
-### Web Technologies  
+### Web Development  
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
