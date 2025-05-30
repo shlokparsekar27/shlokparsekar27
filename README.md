@@ -15,8 +15,8 @@
 
 ### Programming Languages  
 <p align="left">
-  <img src="https://img.icons8.com/fluency/48/c-programming.png" alt="C" title="C"/> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="C++" title="C++"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="48"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="48"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/> &nbsp;&nbsp;
